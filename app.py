@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
 nltk.download('punkt_tab')
+nltk.download('stopwords')
 # making a function which include all the steps
 # Download punkt resource if it hasn't been downloaded yet
 # # try:
